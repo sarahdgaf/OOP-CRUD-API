@@ -1,5 +1,5 @@
 
-# Paragliding
+# Paragliding App
 
 This project was created using electron. It is for one who wanted to go paraglide but need to
 check whether the weather is safe to do such activity or not. It can also perform CRUD 
@@ -34,7 +34,7 @@ Takes two numbers and returns the sum.
 
 ## Deployment
 
-To launch this project
+To launch this project (on electron)
 
 ```bash
   npm start
