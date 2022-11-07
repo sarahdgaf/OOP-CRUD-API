@@ -1,5 +1,5 @@
 
-# Project Title
+# Paragliding
 
 This project was created using electron. It is for one who wanted to go paraglide but need to
 check whether the weather is safe to do such activity or not. It can also perform CRUD 
