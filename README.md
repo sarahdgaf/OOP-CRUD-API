@@ -39,3 +39,6 @@ To launch this project (on electron)
 ```bash
   npm start
 ```
+## Authors
+
+- [@sarahdgaf](https://www.github.com/sarahdgaf)
